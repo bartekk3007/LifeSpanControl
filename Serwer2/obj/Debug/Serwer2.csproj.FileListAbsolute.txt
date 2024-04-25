@@ -1,0 +1,9 @@
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\Serwer2\bin\Debug\Serwer2.exe.config
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\Serwer2\bin\Debug\Serwer2.exe
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\Serwer2\bin\Debug\Serwer2.pdb
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\Serwer2\bin\Debug\IZadanie4.dll
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\Serwer2\obj\Debug\Serwer2.csproj.AssemblyReference.cache
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\Serwer2\obj\Debug\Serwer2.csproj.CoreCompileInputs.cache
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\Serwer2\obj\Debug\Serwer2.csproj.Up2Date
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\Serwer2\obj\Debug\Serwer2.exe
+C:\Users\48571\OneDrive\Pulpit\COMLab5\WCFLab2\Serwer2\obj\Debug\Serwer2.pdb
